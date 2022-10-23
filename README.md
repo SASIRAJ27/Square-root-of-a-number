@@ -29,7 +29,6 @@ print("Square root of the number:",x)
 ```
 
 ## Output:
-![gcd of two number](gcd.jpg)
 ![OUTPUT](outcom.png)
 
 
